@@ -9,7 +9,7 @@
 		<div class="sfooter-content">
 			<header>
 				<div class="container">
-					<h1>Dylan's Profe$$ional Web Page</h1>
+					<h1>NATHAN Profe$$ional Web Page</h1>
 				</div>
 			</header>
 			<main>
