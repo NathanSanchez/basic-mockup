@@ -10,9 +10,12 @@ body {
 	margin: 0;
 }
 
+
+
 .container {
 	margin: 0 auto;
 	width: 1170px;
+	color: aqua;
 }
 
 .clear {
@@ -36,4 +39,5 @@ body { width: 100%;}
 
 .sfooter-content {
 	flex: 1 0 auto;
+	color: aqua;
 }
